@@ -1,0 +1,2 @@
+.SQFS filter=lfs diff=lfs merge=lfs -text
+*.SQFS filter=lfs diff=lfs merge=lfs -text
